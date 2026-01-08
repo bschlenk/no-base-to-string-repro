@@ -18,7 +18,7 @@ Note the issue:
 
 ```
 ./src/main.ts
-  6:15  error  'Helpers' will use Object's default stringification format ('[object Object]') when stringified  @typescript-eslint/no-base-to-string
+  5:15  error  'Helpers' will use Object's default stringification format ('[object Object]') when stringified  @typescript-eslint/no-base-to-string
 
 ✖ 1 problem (1 error, 0 warnings)
 ```
