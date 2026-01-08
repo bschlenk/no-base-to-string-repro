@@ -1,0 +1,19 @@
+{
+  "name": "no-base-to-string-repro",
+  "version": "1.0.0",
+  "description": "Demonstrates false positive in @typescript-eslint/no-base-to-string",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "keywords": [],
+  "author": "Brian Schlenker <bschlenk@umich.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.52.0"
+  }
+}
